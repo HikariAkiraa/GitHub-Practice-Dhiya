@@ -2,6 +2,6 @@
 
 int main() {
     int prime[] = {2, 3, 5, 7, 11};
-    printf("Hellow World!");
+    printf("Hellow Dunia World!");
     return 0;
 }
