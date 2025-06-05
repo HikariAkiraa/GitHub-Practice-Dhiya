@@ -2,10 +2,10 @@
 
 
 void display() {
-    int a = 10;
-    printf("Halo!");
+    int a = -99;
+    printf("Dunia!");
     print("%d", a);
-    puts("MANTAO!");
+    puts("MANTAOOOOOO!");
 }
 
 
