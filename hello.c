@@ -3,9 +3,13 @@
 
 void display() {
     int a = -99;
-    printf("Dunia!");
+    int b = 99;
+    printf("I LOVE C!");
+    print("%d", b);
+    puts("YOE!");
     print("%d", a);
     puts("MANTAOOOOOO!");
+
 }
 
 
